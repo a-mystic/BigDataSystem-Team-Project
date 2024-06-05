@@ -1,0 +1,24 @@
+{
+  "originHash" : "d925809b8ad18a8300107ed7480d03470d9676db0efce31837ee17edc14ce056",
+  "pins" : [
+    {
+      "identity" : "animationkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/NuPlay/AnimationKit.git",
+      "state" : {
+        "revision" : "c17b1d4ac4e017f95c394cd519d498460234cb9f",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "revision" : "769b88d83a42ca8d5572b020c96f47e3690b3796",
+        "version" : "4.4.3"
+      }
+    }
+  ],
+  "version" : 3
+}
