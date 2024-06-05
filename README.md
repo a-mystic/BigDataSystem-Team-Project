@@ -4,6 +4,6 @@
 
 https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies
 
-https://github.com/a-mystic/BigDataSystem-Team-Project/assets/57480798/fa2031e9-268c-42d8-a489-ce35cf96b104
+https://github.com/a-mystic/BigDataSystem-Team-Project/assets/57480798/14b05f05-6407-43f5-b69a-5d0f5d09f264
 
 시연 영상
